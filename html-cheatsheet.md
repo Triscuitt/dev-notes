@@ -1,6 +1,5 @@
 ---
 
-````md
 # 🌐 HTML Cheat Sheet
 
 ## 📄 Basic Structure
