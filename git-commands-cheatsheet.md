@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Git Command Cheat Sheet
 
 ## 🔧 Setup & Config
@@ -88,3 +87,4 @@ git checkout -- <file>     # Discard file changes (old syntax)
 ```
 
 ---
+
