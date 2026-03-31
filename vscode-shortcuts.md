@@ -1,5 +1,3 @@
-Here’s a clean **Markdown-formatted cheat sheet** of popular **VS Code shortcuts** you can copy and use:
-
 ---
 
 # 🧠 VS Code Keyboard Shortcuts Cheat Sheet
