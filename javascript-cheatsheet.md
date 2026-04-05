@@ -1,5 +1,3 @@
----
-
 # 🟨 JavaScript Cheat Sheet
 
 ## 📌 Basics
