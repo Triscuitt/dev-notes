@@ -1,95 +1,114 @@
 
 
-# 🧠 VS Code Keyboard Shortcuts Cheat Sheet
+⚡ VS Code Advanced Cheat Sheet (Add-ons)
 
-## 📂 General
+🧠 Refactoring & Code Actions
 
-```md
-Ctrl + Shift + P    → Open Command Palette
-Ctrl + P            → Quick file open
-Ctrl + Shift + N    → New window
-Ctrl + W            → Close window
-Ctrl + ,            → Open Settings
-```
+Ctrl + .              → Quick Fix / Suggestions
+F2                    → Rename symbol (variables, functions, etc.)
+Ctrl + Shift + R      → Refactor (context menu)
+Ctrl + K Ctrl + X     → Trim trailing whitespace
+Shift + Alt + F       → Format document
 
-## 📁 File Management
 
-```md
-Ctrl + N            → New file
-Ctrl + S            → Save file
-Ctrl + Shift + S    → Save as
-Ctrl + K S          → Save all
-Ctrl + Tab          → Switch between open files
-```
+---
 
-## ✍️ Editing
+💅 Formatting & Indentation
 
-```md
-Ctrl + X            → Cut line
-Ctrl + C            → Copy line
-Ctrl + V            → Paste
-Ctrl + Z            → Undo
-Ctrl + Y            → Redo
-Ctrl + /            → Toggle line comment
-Shift + Alt + A     → Toggle block comment
-Alt + ↑ / ↓         → Move line up/down
-Shift + Alt + ↓     → Duplicate line
-```
+Ctrl + Shift + I      → Format selection
+Ctrl + ] / [          → Indent / Outdent line
+Ctrl + Shift + P → Format Document
 
-## 🔍 Search & Replace
 
-```md
-Ctrl + F            → Find
-Ctrl + H            → Replace
-Ctrl + Shift + F    → Search in files
-Ctrl + Shift + H    → Replace in files
-```
+---
 
-## 🧭 Navigation
+🧩 Emmet (HTML/CSS Fast Writing)
 
-```md
-Ctrl + G            → Go to line
-Ctrl + Shift + O    → Go to symbol in file
-F12                 → Go to definition
-Alt + F12           → Peek definition
-Ctrl + -            → Go back
-Ctrl + Shift + -    → Go forward
-```
+! + Tab               → Basic HTML boilerplate
+div.container         → <div class="container"></div>
+ul>li*5               → 5 list items
+div#app               → <div id="app"></div>
 
-## 🧩 Multi-cursor & Selection
 
-```md
-Alt + Click         → Add cursor
-Ctrl + Alt + ↑ / ↓  → Add cursor above/below
-Ctrl + D            → Select next occurrence
-Ctrl + Shift + L    → Select all occurrences
-```
+---
 
-## 🧱 Code Folding
+📦 Git (Built-in Source Control)
 
-```md
-Ctrl + Shift + [    → Fold
-Ctrl + Shift + ]    → Unfold
-Ctrl + K Ctrl + 0   → Fold all
-Ctrl + K Ctrl + J   → Unfold all
-```
+Ctrl + Shift + G      → Open Source Control panel
+Ctrl + Enter          → Commit changes
+Ctrl + Shift + P → Git: Clone
 
-## ▶️ Terminal
 
-```md
-Ctrl + `            → Toggle terminal
-Ctrl + Shift + `    → New terminal
-Ctrl + C            → Kill terminal process
-```
+---
 
-## 🧪 Debugging
+🪟 UI / Layout Control
 
-```md
-F5                  → Start debugging
-Shift + F5          → Stop debugging
-F9                  → Toggle breakpoint
-F10                 → Step over
-F11                 → Step into
-```
+Ctrl + B              → Toggle sidebar
+Ctrl + J              → Toggle bottom panel
+Ctrl + K Z            → Zen Mode (distraction free)
+Ctrl + \              → Split editor
+Ctrl + 1 / 2 / 3      → Focus editor groups
+
+
+---
+
+🔎 Global Command Power
+
+Ctrl + Shift + P      → Command Palette (MOST IMPORTANT)
+> Preferences: Color Theme
+> View: Toggle Word Wrap
+> Developer: Reload Window
+
+
+---
+
+🧪 Debug + Console Tips
+
+Ctrl + Shift + Y      → Open Debug Console
+Ctrl + Shift + D      → Run and Debug view
+
+
+---
+
+📁 Explorer / File Tree
+
+Ctrl + Shift + E      → Focus Explorer
+Right Click file      → Reveal in Explorer
+Ctrl + K Ctrl + R     → Reveal active file in sidebar
+
+
+---
+
+⚡ Multi-File Power Moves
+
+Ctrl + Tab            → Cycle recent files
+Ctrl + P → @         → Symbols in file
+Ctrl + P → :line      → Go to line quickly
+
+
+---
+
+🧰 Snippets (Huge Productivity Boost)
+
+Ctrl + Space          → Trigger IntelliSense
+Preferences → User Snippets → Create custom snippets
+
+
+---
+
+🖥️ Terminal Power Tips
+
+Ctrl + Shift + C      → Copy terminal text
+Ctrl + Shift + V      → Paste in terminal
+
+
+---
+
+🚀 Bonus Hidden Gems
+
+Ctrl + Shift + X      → Extensions panel
+Ctrl + K Ctrl + S     → Keyboard shortcuts menu
+Alt + Z               → Toggle word wrap
+
 
 ---
